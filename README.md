@@ -52,6 +52,13 @@ Cyber attacks follow a predictable sequence:
 * **Blue Team (Defense):** The internal Security Operations Center (SOC) that monitors network traffic, hunts for threats, and plugs holes.
 * **Purple Teaming:** The continuous, collaborative cycle where Red and Blue share notes to rapidly improve defenses.
 
+## Contributing 🤝
+
+Want to add your own analogies to the field guide? We'd love your help! Please check out our [CONTRIBUTING.md](CONTRIBUTING.md) file to see our guidelines and how to submit your ideas.
+
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## License 📜
 
