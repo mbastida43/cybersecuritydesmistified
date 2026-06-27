@@ -51,3 +51,8 @@ Cyber attacks follow a predictable sequence:
 * **Red Team (Offense):** Ethical hackers hired to emulate the exact tactics of real-world adversaries to expose blind spots.
 * **Blue Team (Defense):** The internal Security Operations Center (SOC) that monitors network traffic, hunts for threats, and plugs holes.
 * **Purple Teaming:** The continuous, collaborative cycle where Red and Blue share notes to rapidly improve defenses.
+
+
+## License 📜
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
