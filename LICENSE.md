@@ -1,4 +1,4 @@
-# License: MIT License
+# MIT License
 
 ## Properties of this License
 The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). 
@@ -22,7 +22,7 @@ The MIT License is a permissive free software license originating at the Massach
 
 MIT License
 
-Copyright (c) 2026 
+Copyright (c) 2026 - Marlon Bastida
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
