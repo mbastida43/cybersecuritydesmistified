@@ -59,7 +59,3 @@ Want to add your own analogies to the field guide? We'd love your help! Please c
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-"# cybersecuritylearning" 
-"# cybersecuritylearning" 
-"# cybersecuritylearning" 
-"# cybersecuritylearning" 
